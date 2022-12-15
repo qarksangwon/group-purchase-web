@@ -1,0 +1,14 @@
+@font-face{
+	src:url("../fonts/BMJUA_ttf.ttf");
+	font-family:"jua";
+}
+*{
+	font-family:"jua";
+}
+input[type=password]{
+	font-family:'Malgun gothic',dotum,sans-serif;
+}
+::placeholder {
+	font-family:"jua"
+}
+
